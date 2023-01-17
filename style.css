@@ -1,0 +1,83 @@
+#out {
+    background-color: #fff4db;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#topr {
+    height: 290px;
+}
+
+
+
+#box {
+    width: 290px;
+    height: 290px;
+}
+
+#rect {
+    height: 100px;
+    width: 150px;
+}
+
+#spl {
+    width: 120px;
+    height: 100px;
+}
+
+#div1 {
+    height: 290px;
+    width: 10px;
+}
+
+#div2 {
+    height:10px ;
+    width: 100px;
+}
+
+#div3 {
+    height: 10px;
+    width: 400px;
+}
+
+.divs {
+    height: 100px;
+    width: 10px;
+}
+
+.medbox {
+    height: 140px;
+    width: 100px;
+}
+
+.smallbox {
+    height: 100px;
+    width: 100px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
+}
